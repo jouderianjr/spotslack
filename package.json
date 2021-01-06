@@ -20,7 +20,7 @@
     "electron": "^9.1.2"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "electron-store": "^6.0.0",
     "spotify-node-applescript-promise": "^1.1.1"
